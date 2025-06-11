@@ -124,7 +124,7 @@ This experimental pipeline follows a mixed analytical and practical approach div
    * Derive actual payoffs and uncertainties via error propagation.
    * Compare with analytical baselines to assess fidelity and quantify deviations.
 
-![Fig. 2. Overall workflow for implementing and validating the quantum Battle of the Sexes game, from classical modeling to hardware execution and analysis. The feedback arrow indicates how GCM refines mappings based on prior results.](DATA/1_Worflow/0_Flujo.png)
+![Fig. 2. Overall workflow.](DATA/1_Worflow/0_Flujo.jpg)
 
 ---
 
