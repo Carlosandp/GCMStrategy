@@ -150,4 +150,6 @@ Contributions are welcome:
 
 ## License
 
-This project is licensed under the **MIT License**. See `LICENSE` for details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.txt).
+
+Part of the methodology and structure of this repository is based on works licensed under the same Creative Commons BY-NC-SA 4.0 license, ensuring that derivative works remain non-commercial and share-alike.
